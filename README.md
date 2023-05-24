@@ -37,3 +37,4 @@ To customize the statistical calculations or the way the results are displayed:
 Modify the utility functions in the utils.js file.
 Update the React components in the FlavanoidsTable.js and GammaTable.js files.
   
+![plot](/home/htd/Desktop/Screenshot at 2023-05-24 09-58-01.png)
